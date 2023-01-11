@@ -29,7 +29,8 @@ To Initialize Application:
 
 - Live Heroku Link [Here](https://TextEditor.herokuapp.com/)
 
-  ![demo](./client/src/images/JATE_Demo.gif)
+  ![demo](./Develop/client/src/images/demo.PNG)
+
 
 ## License
 
