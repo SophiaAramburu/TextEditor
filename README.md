@@ -27,7 +27,7 @@ To Initialize Application:
     npm start
 ```
 
-- Live Heroku Link [Here](https://TextEditor.herokuapp.com/)
+- Live Heroku Link [Here](https://texteditor222.herokuapp.com/)
 
   ![demo](./client/src/images/demo.PNG)
 
