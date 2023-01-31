@@ -29,7 +29,7 @@ To Initialize Application:
 
 - Live Heroku Link [Here](https://TextEditor.herokuapp.com/)
 
-  ![demo](./Develop/client/src/images/demo.PNG)
+  ![demo](./client/src/images/demo.PNG)
 
 
 ## License
